@@ -1,0 +1,47 @@
+a {
+    color: rgb(139, 137, 137);
+}
+
+header a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.top-header {
+    border-bottom: 1px solid;
+    border-color: rgb(243, 240, 240);
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.header-list {
+    font-size: 18px;
+    font-weight: 550;
+    display: inline-block;
+    margin: 15px 20px 20px;
+    width: 1000px;
+}
+
+.header-list li {
+    float: left;
+    padding: 0 8px;
+}
+
+.line-logo {
+    color: rgb(38, 199, 38);
+    font-weight: 900;
+    font-size: 28px;
+    font-family: 'arial black';
+    line-height: 20px;
+}
+
+.header-under-list {
+    display: inline-block;
+}
+
+.header-under-list li {
+    float: left;
+}
