@@ -75,7 +75,7 @@ body {
     margin: 0 auto;
     width: 1100px;
     padding: 0 55px;
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff;
 }
 
 .header-under-list {
@@ -105,7 +105,7 @@ body {
 }
 
 .search {
-    background-color: rgb(247, 245, 245);
+    background-color: #f9fafc;
     width: 100%;
 }
 
@@ -175,7 +175,11 @@ body {
 .often-pages {
     text-align: center;
     width: 1200px;
-    margin: 20px auto;
+    margin: 0px auto;
+}
+
+.often-pages-top {
+    padding: 20px 0;
 }
 
 .often-pages-top a {
@@ -188,10 +192,123 @@ body {
     font-weight: 700;
 }
 
-.heacing {
-    margin: ;
+.heading {
+    margin: 65px 0 25px;
 }
 
 .heading h2 {
     font-size: 30px;
+}
+
+.page-links {
+    display: inline-block;
+    margin: 0 auto;
+    width: 1100px;
+    text-align: center;
+}
+
+.page-link {
+    float: left;
+    width: 540px;
+    padding: 30px 0;
+    height: 190px;
+    background-color: #f9fafc;
+    margin: 5px;
+}
+
+.page-link h3 {
+    font-size: 20px;
+}
+
+.page-link p {
+    color: rgb(129, 129, 129);
+}
+
+.page-link h3,
+p {
+    margin: 0;
+}
+
+.page-link img {
+    margin: auto 0;
+    display: inline-block;
+}
+
+.category-search {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.category-search h2 {
+    text-align: center;
+}
+
+.foot {
+    display: inline-block;
+    width: 1200px;
+    margin: 0px auto;
+    text-align: center;
+    border-top: 1px solid;
+    border-color: rgb(240, 240, 240);
+    padding: 35px 0;
+}
+
+.foot {
+    font-weight: 900;
+}
+
+.category {
+    width: 1200px;
+    display: inline-block;
+}
+
+.category a {
+    display: block;
+    text-decoration: none;
+    padding: 15px 0;
+    border-top: 1px solid;
+    border-color: rgb(240, 240, 240);
+}
+
+.category-list {
+    color: black;
+    margin: 0 50px;
+}
+
+.category-sub-list {
+    margin: 0 50px;
+}
+
+.category-sub-list a {
+    padding: 15px 16px;
+}
+
+.contact {
+    background-color: #f9fafc;
+    width: 100%;
+    padding: 50px 0;
+    margin: 30px 0;
+}
+
+.contact-contain {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact-heading h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.contact-icon {
+    display: inline-block;
+    width: 20%;
+    margin: 50px 0;
+}
+
+.contact-icon p {
+    font-weight: 580;
+    font-size: 14px;
+    color: rgb(75, 74, 74);
 }
