@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>お客様サポートトップページ｜LINEモバイル【公式】選ばれる格安スマホ・SIM</title>
     <link rel="stylesheet" href="stylesheet.css">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -15,12 +16,12 @@
                 <div class="header-list">
                     <ul>
                         <li><a href="#" class="line-logo">LINE MOBILE</a></li>
-                        <li><a href="#">はじめに</a></li>
-                        <li><a href="#">料金プラン</a></li>
-                        <li><a href="#">端末</a></li>
-                        <li><a href="#">サポート</a></li>
-                        <li><a href="#">店舗</a></li>
-                        <li><a href="#">キャンペーン</a></li>
+                        <li class="list"><a href="#">はじめに</a></li>
+                        <li class="list"><a href="#">料金プラン</a></li>
+                        <li class="list"><a href="#">端末</a></li>
+                        <li class="list"><a href="#">サポート</a></li>
+                        <li class="list"><a href="#">店舗</a></li>
+                        <li class="list"><a href="#">キャンペーン</a></li>
                         <li><a href="#" class="my-page">マイページ</a></li>
                         <li><a href="#" class="submit">申し込む</a></li>
                     </ul>
@@ -31,27 +32,48 @@
                     <ul>
                         <li><a href="#">サポートトップ</a></li>
                         <li><a href="#">よくある質問・用語集</a></li>
-                        <li><a href="#">問い合わせ</a></li>
+                        <li><a href="#" class="menu-to-sub-1">問い合わせ</a></li>
                         <li><a href="#">申し込み前の確認・機能の紹介</a></li>
                         <li><a href="#">初期設定・使い方</a></li>
                     </ul>
                 </div>
             </div>
+            <div class="header-sub-menu">
+                <ul class="sub-menu-1">
+                    <li><a href="#">いつでもヘルプ</a></li>
+                    <li><a href="#">メール問い合わせ</a></li>
+                    <li><a href="#">電話問い合わせ</a></li>
+                    <li><a href="#">改善要望</a></li>
+                </ul>
+            </div>
         </div>
     </header>
     <div class="container">
         <div class="search">
-            <h1>LINEモバイルのサポート</h1>
-            <p>あなたの「分からない」を解決します。</p>
-            <input type="search" size="36">
-            <p>よく検索されるキーワード</p>
-            <a href="#">プラン変更</a>
-            <a href="#">APN設定</a>
-            <a href="#">利用コード</a>
+            <h1 class="search-top">LINEモバイルのサポート</h1>
+            <div class="search-element">
+                <p>あなたの「わからない」を解決します。</p>
+                <form method="get" action="#" class="search_container">
+                    <input type="text" size="100" placeholder="調べたいキーワードを入力する"><input type="submit" value="&#xf002">
+                </form>
+                <div class="search-often">
+                    <span>よく検索されるキーワード</span>
+                    <a href="#">プラン変更</a>
+                    <a href="#">APN設定</a>
+                    <a href="#">利用コード</a>
+                </div>
+                <div class="support-img">
+                    <img src="#" alt="サポート画像">
+                </div>
+            </div>
         </div>
     </div>
     <div class="container">
         <div class="often-pages">
+            <div class="often-pages-top">
+                <a href="#">検討中の方</a>
+                <a href="#">契約済の方</a>
+            </div>
             <div class="heading">
                 <h2>よく見られているページ</h2>
             </div>
