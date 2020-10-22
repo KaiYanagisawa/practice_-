@@ -312,3 +312,14 @@ p {
     font-size: 14px;
     color: rgb(75, 74, 74);
 }
+
+.official-account {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.account {
+    display: inline-block;
+    width: 30%;
+}
