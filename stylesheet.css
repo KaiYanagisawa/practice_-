@@ -1,4 +1,4 @@
-a {
+header a {
     color: rgb(139, 137, 137);
 }
 
@@ -12,14 +12,14 @@ li {
 
 body {
     margin: 0;
+    min-width: 1357px;
 }
 
 .top-header {
-    border-bottom: 1px solid;
-    border-color: rgb(243, 240, 240);
-    width: 1100px;
     padding: 0 50px 0 20px;
     margin: 0 auto;
+    text-align: center;
+    width: 1170px;
 }
 
 .header-list {
@@ -34,12 +34,12 @@ body {
     float: left;
 }
 
-.header-list li:visited {
+.header-list a:visited {
     color: rgb(18, 201, 18);
     border-bottom: rgb(18, 201, 18);
 }
 
-.header-list li:hover {
+.header-list a:hover {
     color: rgb(18, 201, 18);
 }
 
@@ -71,16 +71,24 @@ body {
     margin-left: 10px;
 }
 
+.submit img {
+    vertical-align: top;
+    margin-top: 1px;
+}
+
 .under-header {
     margin: 0 auto;
-    width: 1100px;
+    width: 1200px;
     padding: 0 55px;
     background-color: #ffffff;
+    border-top: 1px solid;
+    border-color: rgb(243, 240, 240);
 }
 
 .header-under-list {
     display: inline-block;
     font-size: 14px;
+    margin: 0 35px;
 }
 
 .header-under-list li {
@@ -105,7 +113,7 @@ body {
 }
 
 .search {
-    background-color: #f9fafc;
+    background-color: #f5f7f9;
     width: 100%;
 }
 
@@ -172,6 +180,11 @@ body {
     color: rgb(156, 155, 155);
 }
 
+.support-img img {
+    width: 350px;
+    vertical-align: top;
+}
+
 .often-pages {
     text-align: center;
     width: 1200px;
@@ -218,6 +231,7 @@ body {
 
 .page-link h3 {
     font-size: 20px;
+    color: #111111;
 }
 
 .page-link p {
@@ -232,6 +246,8 @@ p {
 .page-link img {
     margin: auto 0;
     display: inline-block;
+    width: 125px;
+    margin: 10px;
 }
 
 .category-search {
@@ -257,9 +273,13 @@ p {
     font-weight: 900;
 }
 
+.foot a {
+    color: rgb(129, 129, 129);
+}
+
 .category {
-    width: 1200px;
     display: inline-block;
+    width: 1200px;
 }
 
 .category a {
@@ -291,7 +311,6 @@ p {
 }
 
 .contact-contain {
-    width: 1200px;
     margin: 0 auto;
     text-align: center;
 }
@@ -304,7 +323,22 @@ p {
 .contact-icon {
     display: inline-block;
     width: 20%;
-    margin: 50px 0;
+    margin: 50px 10px;
+}
+
+.contact-icon-2 {
+    display: inline-block;
+    width: 20%;
+    margin: 50px 10px 40px;
+}
+
+.contact-icon a {
+    text-decoration: none;
+}
+
+.contact-icon img {
+    width: 125px;
+    margin-bottom: 15px;
 }
 
 .contact-icon p {
@@ -313,13 +347,94 @@ p {
     color: rgb(75, 74, 74);
 }
 
+.official-account-contain {
+    margin: 80px 0;
+}
+
 .official-account {
-    width: 1200px;
     margin: 0 auto;
     text-align: center;
+}
+
+.account-heading h2 {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.account-heading p {
+    color: rgb(78, 78, 78);
 }
 
 .account {
     display: inline-block;
     width: 30%;
+    margin: 40px 0;
+}
+
+.account p {
+    font-size: 14px;
+    font-weight: 700;
+    color: #111111;
+}
+
+.account a {
+    text-decoration: none;
+}
+
+.account-inside {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.account-inside img {
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+.footer-top {
+    border-top: 1px solid;
+    border-color: rgb(240, 240, 240);
+    font-size: 14px;
+    color: rgb(116, 116, 116);
+}
+
+.footer-top-contain a {
+    color: rgb(145, 144, 144);
+}
+
+.footer-top-contain {
+    width: 1200px;
+    margin: 20px auto;
+    text-align: left;
+    padding: 0 70px;
+}
+
+.footer-main {
+    background-color: #111111;
+}
+
+.footer-main-contain {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+.footer-main-contain a {
+    color: #dfdfdf;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 200;
+    margin: 0;
+    padding: 0 15px;
+}
+
+.footer-img {
+    display: inline-block;
+    float: right;
+}
+
+.to-border {
+    border-right: 1px solid;
+    border-color: rgb(110, 110, 110);
 }
