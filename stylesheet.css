@@ -1,5 +1,5 @@
-header a {
-    color: rgb(139, 137, 137);
+* {
+    box-sizing: border-box;
 }
 
 header a {
@@ -27,16 +27,20 @@ body {
     margin: 15px 20px 20px;
 }
 
-.header-list li {
+.list li {
     float: left;
 }
 
-.header-list a:active {
+.list a {
+    color: #888;
+}
+
+.list a:active {
     color: rgb(18, 201, 18);
     border-bottom: rgb(18, 201, 18);
 }
 
-.header-list a:hover {
+.list a:hover {
     color: rgb(18, 201, 18);
 }
 
@@ -75,7 +79,6 @@ body {
 
 .under-header {
     margin: 0 auto;
-    width: 1200px;
     padding: 0 55px;
     background-color: #ffffff;
     border-top: 1px solid;
@@ -130,6 +133,10 @@ body {
 .search-element p {
     font-size: 18px;
     margin: 10px 0 40px;
+}
+
+.search_container input {
+    width: 100%;
 }
 
 .search_container input[type="text"] {
