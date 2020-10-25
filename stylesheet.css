@@ -276,7 +276,7 @@ p {
 }
 
 .category {
-    display: inline-block;
+    display: block;
 }
 
 .category a {
