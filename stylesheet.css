@@ -21,10 +21,14 @@ body {
 }
 
 .header-list {
-    font-size: 18px;
+    font-size: 1.2vw;
     font-weight: 550;
     display: inline-block;
     margin: 15px 20px 20px;
+}
+
+.header-list ul {
+    padding: 0;
 }
 
 .header-list li {
@@ -64,7 +68,7 @@ body {
     font-size: 14px;
     line-height: 20px;
     color: rgb(18, 201, 18);
-    margin: 0 10px 0 50px;
+    margin: 0 10px;
     line-height: 10px;
 }
 
