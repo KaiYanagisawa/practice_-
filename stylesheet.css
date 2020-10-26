@@ -61,7 +61,7 @@ body {
 }
 
 .list {
-    padding-left: 30px;
+    padding-left: 1vw;
 }
 
 .my-page {
@@ -160,6 +160,7 @@ body {
 .search_container input {
     padding: 1px 40px;
     font-size: 15px;
+    width: 70%;
 }
 
 .search_container input[type="submit"] {
