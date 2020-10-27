@@ -54,6 +54,7 @@ body {
 
 .line-logo img {
     width: 13vw;
+    vertical-align: middle;
 }
 
 .list {
