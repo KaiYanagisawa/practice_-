@@ -225,8 +225,8 @@ body {
 
 .page-links {
     display: inline-block;
+    width: 90%;
     margin: 0 auto;
-    text-align: center;
 }
 
 .page-link {
