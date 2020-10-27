@@ -105,7 +105,7 @@ body {
 
 .header-under-list a {
     color: rgb(148, 148, 148);
-    font-size: 1.2vw;
+    font-size: 1vw;
 }
 
 .sub-menu-1 {
@@ -209,7 +209,7 @@ body {
     text-decoration: none;
     color: rgb(139, 137, 137);
     font-size: 16px;
-    padding: 20px 230px;
+    padding: 20px 15vw;
     border-bottom: 1px solid;
     border-color: rgb(230, 227, 227);
     font-weight: 700;
