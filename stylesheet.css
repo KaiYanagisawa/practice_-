@@ -83,7 +83,7 @@ body {
 
 .under-header {
     margin: 0 auto;
-    padding: 0 55px;
+    padding: 0 10vw;
     background-color: #ffffff;
     border-top: 1px solid;
     border-color: rgb(243, 240, 240);
@@ -91,7 +91,6 @@ body {
 
 .header-under-list {
     display: inline-block;
-    margin: 0 35px;
 }
 
 .header-under-list li {
