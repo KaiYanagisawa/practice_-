@@ -52,8 +52,8 @@ body {
     color: rgb(18, 201, 18);
 }
 
-.line-logo {
-    line-height: 24px;
+.line-logo img {
+    width: 13vw;
 }
 
 .list {
