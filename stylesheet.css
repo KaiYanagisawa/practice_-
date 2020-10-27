@@ -95,7 +95,6 @@ body {
 
 .header-under-list {
     display: inline-block;
-    font-size: 14px;
     margin: 0 35px;
 }
 
@@ -106,6 +105,7 @@ body {
 
 .header-under-list a {
     color: rgb(148, 148, 148);
+    font-size: 1.2vw;
 }
 
 .sub-menu-1 {
