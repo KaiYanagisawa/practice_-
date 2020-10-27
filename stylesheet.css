@@ -327,12 +327,7 @@ p {
     display: inline-block;
     width: 20%;
     margin: 50px 10px;
-}
-
-.contact-icon-2 {
-    display: inline-block;
-    width: 20%;
-    margin: 50px 10px 40px;
+    vertical-align: top;
 }
 
 .contact-icon a {
