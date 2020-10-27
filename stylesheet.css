@@ -209,7 +209,7 @@ body {
     text-decoration: none;
     color: rgb(139, 137, 137);
     font-size: 16px;
-    padding: 20px 15vw;
+    padding: 20px 17vw;
     border-bottom: 1px solid;
     border-color: rgb(230, 227, 227);
     font-weight: 700;
@@ -233,7 +233,7 @@ body {
     float: left;
     width: 49%;
     padding: 30px 0;
-    height: 250px;
+    height: 22vw;
     background-color: #f9fafc;
     margin: 0.5%;
 }
@@ -255,7 +255,8 @@ p {
 .page-link img {
     margin: auto 0;
     display: inline-block;
-    width: 125px;
+    width: 25%;
+    height: 57%;
     margin: 10px;
 }
 
