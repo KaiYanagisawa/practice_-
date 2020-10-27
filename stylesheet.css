@@ -266,6 +266,7 @@ p {
 .foot {
     display: inline-block;
     margin: 0px auto;
+    width: 100%;
     text-align: center;
     border-top: 1px solid;
     border-color: rgb(240, 240, 240);
