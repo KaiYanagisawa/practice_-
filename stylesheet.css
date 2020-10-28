@@ -145,6 +145,11 @@ body {
     margin: 10px 0 40px;
 }
 
+.search-container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
 .search_container input[type="text"] {
     background: #ffffff;
     border: none;
@@ -426,6 +431,7 @@ p {
     text-align: left;
     padding: 0 70px;
     font-size: min(1vw, 13px);
+    max-width: 1280px;
 }
 
 .footer-main {
