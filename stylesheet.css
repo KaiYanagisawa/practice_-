@@ -381,13 +381,15 @@ p {
 }
 
 .account-inside {
-    width: 200px;
+    width: 45%;
     margin: 0 auto;
     text-align: center;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .account-inside img {
-    width: 80px;
+    width: 50%;
     margin-bottom: 10px;
 }
 
