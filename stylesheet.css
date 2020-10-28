@@ -42,7 +42,7 @@ body {
     color: #888;
     vertical-align: middle;
     display: inline-block;
-    font-size: 1.2em;
+    font-size: min(1.2vw, 20px);
 }
 
 .list a:active {
