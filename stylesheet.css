@@ -414,7 +414,6 @@ p {
 .footer-top {
     border-top: 1px solid;
     border-color: rgb(240, 240, 240);
-    font-size: 14px;
     color: rgb(116, 116, 116);
 }
 
@@ -426,7 +425,7 @@ p {
     margin: 20px auto;
     text-align: left;
     padding: 0 70px;
-    font-size: 1vw;
+    font-size: min(1vw, 13px);
 }
 
 .footer-main {
