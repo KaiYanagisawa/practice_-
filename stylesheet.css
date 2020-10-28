@@ -311,6 +311,12 @@ p {
     padding: 15px 16px;
 }
 
+.contacts {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1280px;
+}
+
 .contact {
     background-color: #f9fafc;
     width: 100%;
