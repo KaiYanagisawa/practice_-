@@ -223,6 +223,7 @@ body {
     display: inline-block;
     width: 90%;
     margin: 0 auto;
+    max-width: 1280px;
 }
 
 .page-link {
@@ -232,7 +233,6 @@ body {
     height: 280px;
     background-color: #f9fafc;
     margin: 0.5%;
-    max-width: 1280px;
 }
 
 .page-link h3 {
