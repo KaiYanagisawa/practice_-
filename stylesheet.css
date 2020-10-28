@@ -365,6 +365,12 @@ p {
     text-align: center;
 }
 
+.accounts {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
 .account-heading h2 {
     font-size: 30px;
     margin: 20px 0;
