@@ -336,13 +336,13 @@ p {
 }
 
 .contact-icon img {
-    width: 125px;
+    width: 50%;
     margin-bottom: 15px;
 }
 
 .contact-icon p {
     font-weight: 580;
-    font-size: 14px;
+    font-size: 1.2vw;
     color: rgb(75, 74, 74);
 }
 
