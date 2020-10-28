@@ -86,11 +86,11 @@ body {
 
 .under-header {
     margin: 0 auto;
-    padding: 0 10vw;
     background-color: #ffffff;
     border-top: 1px solid;
     border-color: rgb(243, 240, 240);
     height: 47px;
+    max-width: 1280px;
 }
 
 .header-under-list {
@@ -207,6 +207,8 @@ body {
 
 .often-pages-top {
     padding: 20px 0;
+    max-width: 1280px;
+    margin: 0 auto;
 }
 
 .often-pages-top a {
