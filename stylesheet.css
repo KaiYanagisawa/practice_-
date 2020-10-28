@@ -352,7 +352,7 @@ p {
 
 .contact-icon p {
     font-weight: 580;
-    font-size: 1.2vw;
+    font-size: 12px;
     color: rgb(75, 74, 74);
 }
 
@@ -397,7 +397,7 @@ p {
 }
 
 .account-inside {
-    width: 60%;
+    width: 65%;
     margin: 0 auto;
     text-align: center;
     display: inline-block;
