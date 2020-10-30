@@ -47,7 +47,7 @@ body {
     color: #888;
     vertical-align: middle;
     display: inline-block;
-    font-size: min(1.2vw, 20px);
+    font-size: 0.19rem;
 }
 
 .list a:active {
@@ -60,7 +60,7 @@ body {
 }
 
 .line-logo img {
-    width: 13vw;
+    width: 1.64rem;
     vertical-align: middle;
 }
 
