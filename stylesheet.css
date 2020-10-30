@@ -354,6 +354,10 @@ p {
     margin-bottom: 0.2rem;
 }
 
+.contact-heading p {
+    font-size: 0.16rem;
+}
+
 .contact-icon {
     display: inline-block;
     width: 20%;
@@ -373,7 +377,7 @@ p {
 .contact-icon p {
     font-weight: 580;
     color: rgb(75, 74, 74);
-    font-size: min(1.2vw, 15px);
+    font-size: 0.16rem;
 }
 
 .official-account-contain {
@@ -392,8 +396,8 @@ p {
 }
 
 .account-heading h2 {
-    font-size: 30px;
-    margin: 20px 0;
+    font-size: 0.3rem;
+    margin: 0.2rem 0;
 }
 
 .account-heading p {
