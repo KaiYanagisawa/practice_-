@@ -138,10 +138,10 @@ body {
 }
 
 .search-top {
-    font-size: 39px;
+    font-size: 0.38rem;
     text-align: center;
     margin: 0 auto;
-    padding-top: 70px;
+    padding-top: 0.7rem;
 }
 
 .search-element {
@@ -151,8 +151,8 @@ body {
 }
 
 .search-element p {
-    font-size: 18px;
-    margin: 10px 0 40px;
+    font-size: 0.18rem;
+    margin: 0.1rem 0 0.4rem;
 }
 
 .search_container {
