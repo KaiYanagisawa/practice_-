@@ -377,7 +377,7 @@ p {
 .contact-icon p {
     font-weight: 580;
     color: rgb(75, 74, 74);
-    font-size: 0.16rem;
+    font-size: 0.14rem;
 }
 
 .official-account-contain {
@@ -402,6 +402,7 @@ p {
 
 .account-heading p {
     color: rgb(78, 78, 78);
+    font-size: 0.16rem;
 }
 
 .account {
@@ -411,7 +412,7 @@ p {
 }
 
 .account p {
-    font-size: min(1.2vw, 15px);
+    font-size: min(1.2vw, 20px);
     font-weight: 700;
     color: #111111;
 }
