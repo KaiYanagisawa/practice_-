@@ -97,18 +97,23 @@ body {
     max-width: 1280px;
 }
 
+.under-header-contain {
+    text-align: center;
+}
+
 .header-under-list {
     display: inline-block;
+    width: 10.8rem;
 }
 
 .header-under-list li {
     float: left;
-    margin-right: 23px;
+    margin-right: 0.14rem;
 }
 
 .header-under-list a {
     color: rgb(148, 148, 148);
-    font-size: min(1vw, 16px);
+    font-size: 0.14rem;
 }
 
 .sub-menu-1 {
