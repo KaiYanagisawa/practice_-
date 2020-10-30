@@ -194,7 +194,7 @@ body {
 }
 
 .search-often span {
-    font-size: 14px;
+    font-size: 0.14rem;
     font-weight: 800;
 }
 
@@ -205,7 +205,7 @@ body {
 }
 
 .support-img img {
-    width: 350px;
+    width: 3.5rem;
     vertical-align: top;
 }
 
@@ -235,7 +235,7 @@ body {
 }
 
 .heading h2 {
-    font-size: 30px;
+    font-size: 0.3rem;
 }
 
 .page-links {
@@ -255,7 +255,7 @@ body {
 }
 
 .page-link h3 {
-    font-size: 20px;
+    font-size: 0.2rem;
     color: #111111;
 }
 
