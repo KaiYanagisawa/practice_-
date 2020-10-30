@@ -171,9 +171,9 @@ body {
 }
 
 .search_container input {
-    padding: 1px 40px;
-    font-size: 15px;
-    width: 70%;
+    padding: 1px 0.4rem;
+    font-size: 0.15rem;
+    width: 8rem;
 }
 
 .search_container input[type="submit"] {
