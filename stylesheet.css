@@ -485,3 +485,9 @@ p {
     border-right: 1px solid;
     border-color: rgb(110, 110, 110);
 }
+
+@media all and (max-width: 767px) {
+    .under-header {
+        display: none;
+    }
+}
