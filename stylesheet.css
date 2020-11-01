@@ -78,7 +78,7 @@ body {
 .submit {
     background-color: rgb(18, 201, 18);
     color: honeydew;
-    border-radius: 25px;
+    border-radius: 0.25rem;
     padding: 0.08rem 0.3rem;
 }
 
