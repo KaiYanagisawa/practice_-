@@ -490,4 +490,10 @@ p {
     .under-header {
         display: none;
     }
+    .list {
+        display: none;
+    }
+    .my-page {
+        display: none;
+    }
 }
