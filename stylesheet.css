@@ -24,6 +24,10 @@ body {
     text-align: center;
 }
 
+.phone-header {
+    display: none;
+}
+
 .header-list {
     font-weight: 550;
     display: inline-block;
