@@ -493,7 +493,6 @@ p {
 @media all and (max-width: 767px) {
     .phone-header {
         display: inline-block;
-        height: 55px;
     }
     .header-list {
         display: none;
@@ -506,6 +505,10 @@ p {
     }
     .my-page {
         display: none;
+    }
+    .line-logo img {
+        width: 132px;
+        margin: 17px;
     }
     #phone-menu {
         background: #06b856 url(/common/img/ico_order_btn2_sp.png)
