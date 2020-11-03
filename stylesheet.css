@@ -522,6 +522,9 @@ p {
     .search-often span {
         display: block;
     }
+    .page-links a {
+        text-decoration: none;
+    }
     .page-link {
         width: 100%;
         float: none;
