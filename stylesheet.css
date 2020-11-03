@@ -551,5 +551,6 @@ p {
     .page-link h3,
     p {
         width: 170px;
+        text-align: left;
     }
 }
