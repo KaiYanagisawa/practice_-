@@ -532,4 +532,7 @@ p {
     .page-link img {
         width: 60px;
     }
+    .page-link h3 {
+        font-size: 14px;
+    }
 }
