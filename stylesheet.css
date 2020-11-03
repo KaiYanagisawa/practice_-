@@ -528,6 +528,7 @@ p {
     .page-link {
         width: 100%;
         float: none;
+        margin-bottom: 10px;
     }
     .page-link img {
         width: 60px;
