@@ -592,6 +592,9 @@ p {
         width: 90%;
         margin: 10px 0;
     }
+    .account-inside {
+        width: 100%;
+    }
     .account-inside img {
         width: 40px;
         float: left;
