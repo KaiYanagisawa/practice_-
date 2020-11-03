@@ -606,6 +606,6 @@ p {
         margin: 0;
     }
     .footer-top-contain {
-        padding: 0;
+        padding: 0 20px;
     }
 }
