@@ -493,6 +493,10 @@ p {
     width: 120px;
 }
 
+.footer-logo {
+    display: none;
+}
+
 .to-border {
     border-right: 1px solid;
     border-color: rgb(110, 110, 110);
@@ -617,5 +621,12 @@ p {
     }
     .footer-img {
         display: none;
+    }
+    .footer-main-contain {
+        text-align: center;
+    }
+    .footer-logo {
+        display: block;
+        color: #dfdfdf;
     }
 }
