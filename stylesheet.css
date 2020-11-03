@@ -615,4 +615,7 @@ p {
     .footer-top-br {
         display: inline-block;
     }
+    .footer-img {
+        display: none;
+    }
 }
