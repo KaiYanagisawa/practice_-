@@ -565,5 +565,9 @@ p {
     }
     .contact-icon img {
         width: 60px;
+        float: left;
+    }
+    .contact-icon p {
+        float: left;
     }
 }
