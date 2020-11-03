@@ -506,6 +506,9 @@ p {
     .phone-header {
         display: inline-block;
     }
+    .search-top {
+        font-size: 20px;
+    }
     .line-logo img {
         width: 132px;
         margin: 17px;
