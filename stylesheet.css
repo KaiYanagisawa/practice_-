@@ -612,4 +612,7 @@ p {
     .footer-top-contain {
         padding: 0 20px;
     }
+    .footer-top-br {
+        display: inline-block;
+    }
 }
