@@ -529,9 +529,13 @@ p {
         width: 100%;
         float: none;
         margin-bottom: 10px;
+        position: absolute;
     }
     .page-link img {
         width: 60px;
+        position: absolute;
+        top: 13px;
+        left: 15px;
     }
     .page-link h3 {
         font-size: 14px;
