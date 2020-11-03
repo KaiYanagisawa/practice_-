@@ -491,9 +491,6 @@ p {
 }
 
 @media all and (max-width: 767px) {
-    .phone-header {
-        display: inline-block;
-    }
     .header-list {
         display: none;
     }
@@ -506,11 +503,20 @@ p {
     .my-page {
         display: none;
     }
+    .phone-header {
+        display: inline-block;
+    }
     .line-logo img {
         width: 132px;
         margin: 17px;
     }
-    #phone-menu {
-        background: #06b856 url(/common/img/ico_order_btn2_sp.png)
+    label [for="phone-menu"] img {
+        vertical-align: middle;
+    }
+    .search_container input[type="text"] {
+        height: 40px;
+    }
+    .search_container input[type="submit"] {
+        height: 40px;
     }
 }
