@@ -530,6 +530,7 @@ p {
         float: none;
         margin-bottom: 10px;
         position: absolute;
+        padding: 30px;
     }
     .page-link img {
         width: 60px;
