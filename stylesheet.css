@@ -561,8 +561,14 @@ p {
         width: 170px;
         text-align: left;
     }
+    .category-search h2 {
+        font-size: 16px;
+    }
     .contact-heading h2 {
         font-size: 16px;
+    }
+    .contact-br {
+        display: inline-block;
     }
     .contact-icon {
         width: 90%;
