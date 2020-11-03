@@ -228,7 +228,7 @@ body {
     text-decoration: none;
     color: rgb(139, 137, 137);
     font-size: 0.16rem;
-    padding: 20px min(17vw, 230px);
+    padding: 15px min(17vw, 230px);
     border-bottom: 1px solid;
     border-color: rgb(230, 227, 227);
     font-weight: 700;
@@ -518,5 +518,8 @@ p {
     }
     .search_container input[type="submit"] {
         height: 40px;
+    }
+    .search-often span {
+        display: block;
     }
 }
