@@ -529,7 +529,7 @@ p {
         width: 100%;
         float: none;
         margin-bottom: 10px;
-        position: absolute;
+        position: relative;
         padding: 30px;
     }
     .page-link img {
