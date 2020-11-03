@@ -518,6 +518,7 @@ p {
     .phone-header {
         display: inline-block;
         width: 100%;
+        position: relative;
     }
     .search-top {
         font-size: 20px;
@@ -529,11 +530,15 @@ p {
     }
     .phone-menu-phot {
         float: right;
-        width: 55px;
-        height: 55px;
+        width: 35px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin: 10px;
     }
     .submit {
         float: right;
+        margin: 15px 60px 0 0;
     }
     label [for="phone-menu"] img {
         vertical-align: middle;
