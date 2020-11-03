@@ -525,7 +525,7 @@ p {
     }
     .line-logo img {
         width: 132px;
-        margin: 17px;
+        margin: 17px 0 17px 17px;
         float: left;
     }
     .phone-menu-phot {
