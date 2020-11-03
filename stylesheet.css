@@ -530,13 +530,13 @@ p {
         float: none;
         margin-bottom: 10px;
         position: relative;
-        padding: 30px;
+        padding: 25px;
         height: 90px;
     }
     .page-link img {
         width: 60px;
         position: absolute;
-        top: 13px;
+        top: 10px;
         left: 15px;
     }
     .page-link h3 {
