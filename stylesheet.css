@@ -517,6 +517,7 @@ p {
     }
     .phone-header {
         display: inline-block;
+        width: 100%;
     }
     .search-top {
         font-size: 20px;
@@ -524,6 +525,15 @@ p {
     .line-logo img {
         width: 132px;
         margin: 17px;
+        float: left;
+    }
+    .phone-menu-phot {
+        float: right;
+        width: 55px;
+        height: 55px;
+    }
+    .submit {
+        float: right;
     }
     label [for="phone-menu"] img {
         vertical-align: middle;
