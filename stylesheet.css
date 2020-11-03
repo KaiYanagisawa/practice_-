@@ -592,11 +592,17 @@ p {
         width: 90%;
         margin: 10px 0;
     }
+    .account p {
+        padding: 12px 0;
+        text-align: left;
+        margin: 0 0 0 45px;
+    }
     .account-inside {
         width: 100%;
     }
     .account-inside img {
         width: 40px;
         float: left;
+        margin: 0;
     }
 }
