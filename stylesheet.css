@@ -547,9 +547,10 @@ p {
     }
     .page-link h3 {
         font-size: 14px;
+        width: 170px;
+        text-align: left;
     }
-    .page-link h3,
-    p {
+    .page-link p {
         width: 170px;
         text-align: left;
     }
