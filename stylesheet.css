@@ -562,6 +562,7 @@ p {
     }
     .contact-icon {
         width: 80%;
+        margin: 10px;
     }
     .contact-icon img {
         width: 60px;
@@ -569,5 +570,6 @@ p {
     }
     .contact-icon p {
         float: left;
+        font-size: 14px;
     }
 }
