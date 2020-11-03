@@ -533,6 +533,12 @@ p {
         padding: 25px;
         height: 90px;
     }
+    .page-link-text {
+        width: 170px;
+        position: absolute;
+        top: 25px;
+        left: 3.5rem;
+    }
     .page-link img {
         width: 60px;
         position: absolute;
@@ -541,5 +547,9 @@ p {
     }
     .page-link h3 {
         font-size: 14px;
+    }
+    .page-link h3,
+    p {
+        width: 170px;
     }
 }
