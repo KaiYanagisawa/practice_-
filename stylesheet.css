@@ -531,6 +531,7 @@ p {
         margin-bottom: 10px;
         position: relative;
         padding: 30px;
+        height: 90px;
     }
     .page-link img {
         width: 60px;
