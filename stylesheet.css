@@ -585,4 +585,7 @@ p {
         padding: 15px 0 15px 10px;
         text-align: left;
     }
+    .account-heading h2 {
+        font-size: 16px;
+    }
 }
