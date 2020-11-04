@@ -540,6 +540,9 @@ p {
         float: right;
         margin: 15px 60px 0 0;
     }
+    .submit img {
+        width: 10px;
+    }
     label [for="phone-menu"] img {
         vertical-align: middle;
     }
